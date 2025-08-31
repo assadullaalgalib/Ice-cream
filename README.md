@@ -1,62 +1,3 @@
-<<<<<<< HEAD
-# Ice Cream Builder - React JS Starter Application
-
-A basic template that consists of the essential elements that are required to start building a React application using [create-react-app](https://github.com/facebook/create-react-app).
-
-## Table of contents
-
-- [Installation](#installation)
-  - [Node JS](#node-js)
-  - [Create React App](#create-react-app)
-- [Editor setup](#editor-setup)
-  - [Plugins](#plugins)
-  - [Settings](#settings)
-  - [Set Line Breaks](#set-line-breaks)
-- [Linting & Auto Formatting setup](#linting-and-auto-formatting-setup)
-
-## Installation
-
-### node js
-
-You’ll need to have Node 8.16.0 or Node 10.16.0 or later version on your local development machine. You can check your node version by simply typing below commands:
-
-```bash
-node -v
-```
-
-If you don't have node.js installed in your machine, you can install it from [node.js official website](https://nodejs.org/en).
-
-In case you have older version node.js installed in your machine, you can follow [this guideline](https://phoenixnap.com/kb/update-node-js-version) to update node.js.
-
-### Create React App
-
-Open terminal and 'cd' into the folder where you want your project to reside & enter the below command in your terminal:
-
-```bash
-npx create-react-app ice-cream-builder
-```
-
-This will create a new folder called "ice-cream-builder" and install everything required to start a new react application.
-
-## Editor Setup
-
-You can use any editor but as I personally prefer VS Code. I will give some instructions about how I prefer VS code to be setup for React applications.
-
-### Plugins
-
-I would recommend below plugins for VS Code:
-
-- ESLint by Dirk Baeumer
-- Prettier - Code formatter by Prettier
-- Live Server by Ritwick Dey
-- Path Autocomplete by Mithai Vilcu
-- Bracket Pair Colorizer by CoenraadS
-- Material Icon Theme by Phillipp Kief
-- ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
-
-### Settings
-
-I would also recommend below settings for VS Code. You can edit the VS Code settings.json file by simply pressing (CTRL + ,) in Windows or (CMD + ,) in MacOS
 
 ```json
 =======
@@ -236,9 +177,3 @@ write below lines inside .eslintrc file
             }
         ]
     }
-<<<<<<< HEAD
-}
-```
-=======
-}
->>>>>>> 6034402248fb4a47affbdf9039e55ec47ec87e3c
